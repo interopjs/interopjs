@@ -1,0 +1,27 @@
+{
+  "name": "interopjs",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/interopjs/interopjs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/interopjs/interopjs/issues"
+  },
+  "homepage": "https://github.com/interopjs/interopjs#readme",
+  "dependencies": {
+    "symbol": "^0.3.1"
+  },
+  "devDependencies": {
+    "chai": "^4.1.0",
+    "mocha": "^3.4.2"
+  }
+}
